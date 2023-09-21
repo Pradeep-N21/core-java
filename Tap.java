@@ -6,7 +6,7 @@ public class Tap
     public static void main(String[] args)
     {
         int ReturnedValue1=divide(35,7,3);
-        System.out.println(FirstReturnedValue);
+        System.out.println(ReturnedValue1);
 
         int ReturnedValue2=divide(35,7);
         System.out.println(ReturnedValue2);
